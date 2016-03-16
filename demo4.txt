@@ -1,0 +1,33 @@
+[*][*][*]Cracking Password for user: jsmith [*][*][*]
+Success! jsmith's password was cracked.
+jsmith's password is: mouse
+
+
+[*][*][*]Cracking Password for user: root [*][*][*]
+root's password could not be cracked.
+
+
+[*][*][*]Cracking Password for user: name [*][*][*]
+Success! name's password was cracked.
+name's password is: password
+
+
+[*][*][*]Cracking Password for user: Simantha [*][*][*]
+Success! Simantha's password was cracked.
+Simantha's password is: oranges
+
+
+[*][*][*]Cracking Password for user: aAllen [*][*][*]
+aAllen's password could not be cracked.
+
+
+[*][*][*]Cracking Password for user: jeremyDane [*][*][*]
+Success! jeremyDane's password was cracked.
+jeremyDane's password is: zebra
+
+
+[*][*][*]Cracking Password for user: JJnorth [*][*][*]
+Success! JJnorth's password was cracked.
+JJnorth's password is: android
+
+

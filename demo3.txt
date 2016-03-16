@@ -1,0 +1,28 @@
+[*][*][*]Cracking Password for user: jsmith [*][*][*]
+jsmith's password could not be cracked.
+
+
+[*][*][*]Cracking Password for user: root [*][*][*]
+root's password could not be cracked.
+
+
+[*][*][*]Cracking Password for user: name [*][*][*]
+name's password could not be cracked.
+
+
+[*][*][*]Cracking Password for user: Simantha [*][*][*]
+Simantha's password could not be cracked.
+
+
+[*][*][*]Cracking Password for user: aAllen [*][*][*]
+aAllen's password could not be cracked.
+
+
+[*][*][*]Cracking Password for user: jeremyDane [*][*][*]
+jeremyDane's password could not be cracked.
+
+
+[*][*][*]Cracking Password for user: JJnorth [*][*][*]
+JJnorth's password could not be cracked.
+
+

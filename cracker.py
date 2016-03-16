@@ -7,15 +7,15 @@ time_stamp = datetime.now()
 
 def passCracker(passcrypt, user):
     salt = passcrypt[0:2]
-    dictionary = open('dictionary1.txt','r')
+    dictionary = open('dictionary6.txt','r')
     for word in dictionary.readlines():
         word=word.strip('\n')
         wordcrypt = crypt.crypt(word,salt)
         if (wordcrypt == passcrypt):
             print 'Success! ' + user + "'s password was cracked."
-            print user + "'s password is: " + word 
+            print user + "'s password is: " + word + "\n"+ "\n"
             return
-    print user + "'s password could not be cracked."
+    print user + "'s password could not be cracked." + "\n" + "\n"
     return
 
 def main():
